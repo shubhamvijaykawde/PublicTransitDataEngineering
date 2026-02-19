@@ -1,0 +1,24 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# airflow
+airflow/
+logs/
+
+# data (too big for github)
+data/
+
+# mysql dumps
+*.sqlitedb
+*.db
+
+# vscode
+.vscode/
