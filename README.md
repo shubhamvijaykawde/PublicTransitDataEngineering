@@ -1,4 +1,5 @@
 # Public Transport Data Engineering Pipeline
+# 🚧 Work in progress — building a public transit data engineering pipeline
 
 End-to-end ETL pipeline that ingests GTFS transit data (Berlin & Paris),
 builds a data warehouse, computes KPIs, and orchestrates daily runs using Apache Airflow.
